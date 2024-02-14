@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "eBVDaOxTKsAZWgms1/fPTkqrDm7X0So4u94dpZV1fL6nn9hOwgtNYRkp1JODFcGSqxufefhvttPRjYsche5aUQ==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\Dell\\Documents\\Automation\\RestApiAutomationFramework\\RestApiAutomationFramework.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\nunit\\4.0.1\\nunit.4.0.1.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\nunit3testadapter\\4.5.0\\nunit3testadapter.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
